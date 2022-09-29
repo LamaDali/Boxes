@@ -1,0 +1,33 @@
+*{
+    margin: 1rem;
+}
+ 
+header{
+    background-color: lightgreen;
+    height: 6rem;
+}
+ 
+main{
+    margin-left: 15.5rem;
+    background-color: yellow;
+    padding: 7rem 0.5rem 0.5rem 0.5rem;
+}
+ 
+main article{
+    background-color: rgb(169, 159, 232);
+    height: 6rem;
+}
+ 
+footer{
+    background-color: plum;
+    height: 6rem;
+}
+ 
+nav{
+    position: absolute;
+    margin-top: 9rem;
+    top: 0;
+    width: 13.5rem;
+    height: 29.5rem;
+    background-color: pink;
+}
